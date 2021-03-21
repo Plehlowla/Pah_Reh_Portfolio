@@ -34,3 +34,5 @@ while guess != secret:
         
 
 print('It took you', count, 'guesses!')
+
+# Credit : Tech With Tim
